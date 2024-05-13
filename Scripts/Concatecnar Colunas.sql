@@ -1,0 +1,1 @@
+SELECT Nome + ' - ' + Cor ProdutoCor FROM dbo.Produtos 
